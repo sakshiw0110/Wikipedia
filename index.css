@@ -1,0 +1,9 @@
+img{
+    width:200vm;
+    padding: 50px;
+    height: 450px;
+    width:300px;
+}
+ .container{
+    display:flex;
+ }
